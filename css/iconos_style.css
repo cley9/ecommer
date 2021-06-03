@@ -1,0 +1,27 @@
+
+.c{
+ height:600px;
+ width: 700px;
+}
+
+.c:hover{
+  color:#FDFDFD;
+
+}
+
+
+.cn{
+  height:600px;
+  width: 700px;
+}
+
+.cn i:hover{
+  /*
+  //background-color: #4AF997;*/
+color: :#EE5228;
+}
+
+
+#btn_ico {
+background:#EE7358;
+}
